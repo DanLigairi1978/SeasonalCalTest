@@ -1,0 +1,182 @@
+[
+  {
+    "month": "January",
+    "vulaVakaViti": "Vula i Nuqa Levu",
+    "lunarPhases": {
+      "New Moon": "01/01/2006",
+      "Waxing Crescent": "Jan 8–10",
+      "First Quarter": "01/01/2013",
+      "Waxing Gibbous": "Jan 15–20",
+      "Full Moon": "01/01/2021",
+      "Waning Gibbous": "Jan 22–26",
+      "Last Quarter": "01/01/2028",
+      "Waning Crescent": "Jan 29–Feb 4"
+    },
+    "interpretation": "Draki matumatua. Levu na nuqa, vivili, sasalu. Matua na dalo ni vuci, wi, maqo, uto, painapiu. Gauna vinaka ni tei dalo, vudi, jaina."
+  },
+  {
+    "month": "February",
+    "vulaVakaViti": "Vula i Sevu",
+    "lunarPhases": {
+      "New Moon": "02/01/2005",
+      "Waxing Crescent": "Feb 7–9",
+      "First Quarter": "02/01/2012",
+      "Waxing Gibbous": "Feb 14–19",
+      "Full Moon": "02/01/2020",
+      "Waning Gibbous": "Feb 21–25",
+      "Last Quarter": "02/01/2027",
+      "Waning Crescent": "Feb 28–Mar 5"
+    },
+    "interpretation": "Gauna ni sevu. Matua na dalo ni tana, tivoli, wi, moli. Levu na vivili, kaikoso, kukusau. Teivaki na bele, rourou, karisi."
+  },
+  {
+    "month": "March",
+    "vulaVakaViti": "Vula i Kelikeli",
+    "lunarPhases": {
+      "New Moon": "03/01/2006",
+      "Waxing Crescent": "Mar 8–10",
+      "First Quarter": "03/01/2013",
+      "Waxing Gibbous": "Mar 15–20",
+      "Full Moon": "03/01/2021",
+      "Waning Gibbous": "Mar 22–26",
+      "Last Quarter": "03/01/2028",
+      "Waning Crescent": "Mar 29–Apr 3"
+    },
+    "interpretation": "Keli na uvi taumada. Tara na lololo. Matua na vutu, ivi. Tekivu na gasau. Levu na qari, mana, vivili. Kumukumuni na dilio."
+  },
+  {
+    "month": "April",
+    "vulaVakaViti": "Vula i Gasau",
+    "lunarPhases": {
+      "New Moon": "04/01/2004",
+      "Waxing Crescent": "Apr 6–8",
+      "First Quarter": "04/01/2011",
+      "Waxing Gibbous": "Apr 13–18",
+      "Full Moon": "04/01/2020",
+      "Waning Gibbous": "Apr 21–25",
+      "Last Quarter": "04/01/2027",
+      "Waning Crescent": "Apr 28–May 3"
+    },
+    "interpretation": "Levu na gasau, lago, duruka, vico. Matua na uto. Levu na tugadra, salala, vivili. Daba na qari, mana."
+  },
+  {
+    "month": "May",
+    "vulaVakaViti": "Vula i Doi",
+    "lunarPhases": {
+      "New Moon": "05/01/2004",
+      "Waxing Crescent": "May 6–8",
+      "First Quarter": "05/01/2011",
+      "Waxing Gibbous": "May 13–18",
+      "Full Moon": "05/01/2019",
+      "Waning Gibbous": "May 20–24",
+      "Last Quarter": "05/01/2026",
+      "Waning Crescent": "May 27–Jun 2"
+    },
+    "interpretation": "Matua na uvi leka, duruka, vico. Bota na kawai, rauva, via. Tau na uca vakabona ni duruka. Levu na daniva, sara, walu."
+  },
+  {
+    "month": "June",
+    "vulaVakaViti": "Vula i Werewere",
+    "lunarPhases": {
+      "New Moon": "06/01/2003",
+      "Waxing Crescent": "Jun 5–7",
+      "First Quarter": "06/01/2010",
+      "Waxing Gibbous": "Jun 12–17",
+      "Full Moon": "06/01/2018",
+      "Waning Gibbous": "Jun 19–23",
+      "Last Quarter": "06/01/2025",
+      "Waning Crescent": "Jun 26–Jul 1"
+    },
+    "interpretation": "Tekivu na were ni yabaki. Matua na uvi ni veikau, kawai, kavika. Vakaluveni na kawakawa, donu. Levu na walu, ogo, saqa."
+  },
+  {
+    "month": "July",
+    "vulaVakaViti": "Vula i Cukicuki",
+    "lunarPhases": {
+      "New Moon": "07/01/2002",
+      "Waxing Crescent": "Jul 4–6",
+      "First Quarter": "07/01/2009",
+      "Waxing Gibbous": "Jul 11–16",
+      "Full Moon": "07/01/2017",
+      "Waning Gibbous": "Jul 18–22",
+      "Last Quarter": "07/01/2024",
+      "Waning Crescent": "Jul 25–31"
+    },
+    "interpretation": "Cukicuki na uvi. Matua na rauva, drove, ginger. Basika na kuita. Vakaluveni na kawakawa, donu. Levu na daniva, salala."
+   },
+  {
+    "month": "August",
+    "vulaVakaViti": "Vula i Senidrala",
+    "lunarPhases": {
+      "New Moon": "08/01/2001",
+      "Waxing Crescent": "Aug 3–5",
+      "First Quarter": "08/01/2008",
+      "Waxing Gibbous": "Aug 10–14",
+      "Full Moon": "08/01/2015",
+      "Waning Gibbous": "Aug 16–20",
+      "Last Quarter": "08/01/2023",
+      "Waning Crescent": "Aug 24–29"
+    },
+    "interpretation": "Matua na drove, ginger, cago. Kuruvaki na drau ni wi. Levu na kuita, vaya. Vakaluveni na kawakawa, donu."
+  },
+  {
+    "month": "September",
+    "vulaVakaViti": "Vula i Vavakada",
+    "lunarPhases": {
+      "New Moon": "09/01/2006",
+      "Waxing Crescent": "Sep 8–13",
+      "First Quarter": "09/01/2014",
+      "Waxing Gibbous": "Sep 15–19",
+      "Full Moon": "09/01/2021",
+      "Waning Gibbous": "Sep 22–28",
+      "Last Quarter": "",
+      "Waning Crescent": ""
+    },
+    "interpretation": "Kadre na uvi. Veitiqa ni tei yabaki. Matua na mokosoi, buaniviti. Basika na dilio. Vakaluveni na donu, kawakawa."
+  },
+  {
+    "month": "October",
+    "vulaVakaViti": "Vula i Balolo Lailai",
+    "lunarPhases": {
+      "New Moon": "10/01/2006",
+      "Waxing Crescent": "Oct 8–13",
+      "First Quarter": "10/01/2014",
+      "Waxing Gibbous": "Oct 15–19",
+      "Full Moon": "10/01/2021",
+      "Waning Gibbous": "Oct 22–28",
+      "Last Quarter": "",
+      "Waning Crescent": ""
+    },
+    "interpretation": "Ta na balolo. Matua na uto, rauva, avocado. Basika na dilio. Vaibaleti na vonu."
+  },
+  {
+  "month": "November",
+  "vulaVakaViti": "Vula i Balolo Levu",
+  "lunarPhases": {
+    "New Moon": "11/01/2005",
+    "Waxing Crescent": "Nov 7–11",
+    "First Quarter": "11/01/2012",
+    "Waxing Gibbous": "Nov 13–17",
+    "Full Moon": "11/01/2020",
+    "Waning Gibbous": "Nov 21–26",
+    "Last Quarter": "",
+    "Waning Crescent": ""
+  },
+  "interpretation": "Ta na balolo ena so na vanua. Dau gaga eso na ika. Momona na lairo kei na qari. Levu na walu. Matua na maqo, painapiu, kavika, dawa, vutu. Tekivu matua na mago, misimisi, moivi. Keli na vurai, tei tale ga na vurai."
+},
+
+{
+  "month": "December",
+  "vulaVakaViti": "Vula i Nuqa Lailai / Vula i Tabu Laca / Vivilaca",
+  "lunarPhases": {
+    "New Moon": "12/01/2004",
+    "Waxing Crescent": "Dec 6–11",
+    "First Quarter": "12/01/2012",
+    "Waxing Gibbous": "Dec 13–17",
+    "Full Moon": "12/01/2019",
+    "Waning Gibbous": "Dec 20–26",
+    "Last Quarter": "",
+    "Waning Crescent": ""
+  },
+  "interpretation": "Tomani tiko na draki suasua, kataraia, namaki na cagi lajara. Levu na nuqa, volaca. Vakaluveni na saqa, walu, qio. Veibaleti na vonu. Matua na maqo, kavika, dawa, painapiu. Se na buabua, sekoula, sinu. Gauna vinaka ni tei dalo, vudi, jaina, ota, karisi."
+}]

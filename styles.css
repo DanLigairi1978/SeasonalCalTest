@@ -1,0 +1,67 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom, #e0f7fa, #f1f8e9);
+  color: #333;
+  margin: 0;
+  padding: 2rem;
+}
+
+h1 {
+  text-align: center;
+  color: #004d40;
+  margin-bottom: 2rem;
+}
+
+.calendar-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.month-card {
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  width: 280px;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.month-card:hover {
+  transform: scale(1.03);
+}
+
+.month-header {
+  background: linear-gradient(135deg, #00796b, #004d40);
+  color: white;
+  padding: 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.month-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease, padding 0.3s ease;
+  background: #f9fbe7;
+  padding: 0 1rem;
+}
+
+.month-card.active .month-content {
+  max-height: 500px;
+  padding: 1rem;
+}
+
+.lunar-phase {
+  margin: 0.5rem 0;
+  font-size: 0.95rem;
+}
+
+.vula-title {
+  font-weight: bold;
+  color: #33691e;
+  margin-top: 0.5rem;
+}
